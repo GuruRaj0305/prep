@@ -1,9 +1,9 @@
-I’m Gururaj. My journey in programming started in 2nd PU when I took PCMCs. I was so fascinated by coding that I scored 99 in Computer Science.
+I’m Gururaj, a software developer with around two years of hands-on experience building and maintaining production-level web applications. I primarily work with JavaScript and Python, focusing on backend systems, APIs, and scalable application design.
 
-Although I graduated in Electronics and Communication, my real passion was always software. So I built my career around it. I started my development journey at Tata Electronics and later joined Swaragh Technologies as a web developer. During this time, I worked on impactful projects like a multi-tenant SaaS platform, a project management system, and an appointment management system.
+I started my career at Tata Electronics and currently work at Swaragh Technologies, where I’ve been involved in building real-world systems such as a multi-tenant SaaS platform, a project management system, and an appointment management application. These projects gave me strong exposure to designing features end-to-end — from database and backend logic to frontend integration.
 
-Technically, I’m strong in Python and JavaScript and have hands-on experience across Node.js, Django, Laravel, and React.js. Additionally i am femiliar with Docker, Nginx, Kubernetes, and Linux.
+Although my degree is in Electronics and Communication, my strength has always been programming. I had an early start during my PCMCs, where I scored 99 in Computer Science, and that problem-solving mindset has carried into my professional work.
 
-What really differentiates me is that I understand systems end-to-end. I don’t limit myself to just frontend or backend — I dive into the architecture, figure out how every part works, and deliver complete, reliable solutions. I’m passionate about learning, dedicated to my work, and I consistently go beyond expectations. I’m dependable, well-organized, and I enjoy collaborating with teams to solve real problems. Whenever something is new, I don’t wait for instructions — I explore, experiment, and pick it up quickly.
+Technically, I’m strong in Python and JavaScript, with experience using Node.js, Django, Laravel, and React. I also have working knowledge of Docker, Nginx, Kubernetes, and Linux, which helps me understand how applications behave beyond just writing code.
 
-Outside of work, I enjoy travelling, exploring food, fitness, and spending time with friends and family. These help me stay curious, disciplined, and balanced — qualities I bring into my professional life as well.
+What differentiates me is that I don’t work in silos. I focus on understanding the full system — how components interact, where failures can happen, and how to build solutions that are reliable and maintainable. I’m quick to pick up new technologies and take ownership of what I work on.
