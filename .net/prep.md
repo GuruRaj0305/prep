@@ -146,3 +146,49 @@ Examples:
 - Large arrays  
 - Big buffers  
 - Image data  
+
+
+
+
+# Threads vs Tasks in .NET (One-Screen Notes)
+
+## What is what?
+
+- **Thread** = an actual OS thread  
+- **Task** = a unit of work managed by .NET (usually runs on a ThreadPool thread)
+
+
+- **99% of the time → use `Task`**
+- **Use `Thread` only if you need a dedicated, long-running OS thread**
+
+---
+
+## Key Differences
+
+| Point | Thread | Task |
+|------|--------|------|
+| What it is | OS thread | Work abstraction |
+| Creation cost | High | Low |
+| Thread reuse | ❌ No | ✅ Yes |
+| async/await support | ❌ No | ✅ Yes |
+| Cancellation | Hard | Built-in |
+| Scalability | Poor | Good |
+| Modern .NET usage | ❌ Avoid | ✅ Use |
+
+---
+
+## Final Verdict
+
+- Thread = low-level, heavy, manual  
+- Task = high-level, efficient, scalable  
+
+**Modern .NET code should think in Tasks, not Threads.**
+
+
+--- 
+# ISP ( Interface Segregation Principle )
+---
+
+# SRP ( Single Responsibility Principle )
+
+
